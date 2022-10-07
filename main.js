@@ -21,7 +21,7 @@ window.onscroll = function () {
   } else {
     kallas.style.fontSize = value + "px";
   }
-  if (scrollY >= 444) {
+  if (scrollY >= 440) {
     kallas.style.display = "none";
   } else {
     kallas.style.display = "block";
